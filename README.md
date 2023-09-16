@@ -1,19 +1,13 @@
-# Foodly-One-Stop-Food
+# Homebowls
+
+**Links**
+- [OG Repository](https://github.com/radwan503/Foodly--ECommerce)
+- [OG Template](https://radwan503.github.io/Foodly--ECommerce/index.html#)
+- [Live Demo](https://homebowls.vercel.app)
+- [Vercel](https://vercel.com/dashboard)
+- [Wordpress](https://homebowls.com/)
+- [Wordpress Admin](https://homebowls.com/wp-admin/)
+- [ChatGPT](chat.openai.com)
 
 
-Foodly– is a modern, unique as well as a responsive template. This eye-catching template is looking nice for its clean and smooth design. You can apply this template as your own wish. This template is absolute for farms, farmers, food retail, food company, organic food, seed healthy juice, fruits, etc
-
-<li>Clean &amp; Modern Design.</li>
-<li>Valid HTML5 &amp; CSS3.</li>
-<li>Build with Bootstrap 4</li>
-<li>Awesome Unique Look.</li>
-<li>Cross Browser Optimization.</li>
-<li>Google font.</li>
-and much more.
-
-
-N.B:Image,icon collect From pexels,freepik,flaticon,google.
-
-
-“Website without visitors is like a ship lost in the horizon.”
-― Dr. Christopher Dayagdag
+Happy Coding!
