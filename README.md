@@ -9,5 +9,6 @@
 - [Wordpress Admin](https://homebowls.com/wp-admin/)
 - [ChatGPT](chat.openai.com)
 
+![Outline](https://github.com/drPod/Homebowls/blob/main/outline.png?raw=true)
 
 Happy Coding!
