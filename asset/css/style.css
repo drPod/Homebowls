@@ -1171,6 +1171,13 @@ a:active {
   background-repeat: no-repeat;
   padding: 100px;
 }
+.shop-subtitle {
+  margin-left: 20px;
+}
+.shop-pfp {
+  margin-right: auto;
+  margin-left: auto;
+}
 
 /*footer-wrapper*/
 .footer-wrapper {
